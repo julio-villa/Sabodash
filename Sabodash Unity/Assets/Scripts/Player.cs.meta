@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 7ef71e3f7ea1d24418ec4abb0cab0718
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - mat_normal: {fileID: 6200000, guid: 87b70404d4ecc354695d4a06e7c46787, type: 2}
+  - mat_bouncy: {fileID: 6200000, guid: ee184e8f58249df4592bf2a949059c29, type: 2}
+  - rigbod: {instanceID: 0}
+  - boxcollider: {instanceID: 0}
+  - sprite: {instanceID: 0}
+  - textPrefab: {instanceID: 0}
+  - bank_txt: {instanceID: 0}
+  - sab_txt: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
