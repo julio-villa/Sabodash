@@ -1,5 +1,6 @@
 SABODASH is a local multiplayer infinite runner made in collaboration with [Reece Dubin](https://github.com/RDubinNU) and [Felipe Jannarone](https://github.com/felipejannarone). The goal of the game is to collect sabotages that allow you to disadvantage your friends, and eventually be the last person standing. SABODASH supports as many players as the number of controllers that can connect to your computer. 
 
+To play the game, clone this repo and open the Sabotage.exe file within the "Sabodash Build" directory. If you are on MacOS or otherwise unable to open .exe files, open the DefaultRunning.unity scene file within [/Sabodash Unity/Assets/Scenes](https://github.com/julio-villa/Sabodash/tree/main/Sabodash%20Unity/Assets/Scenes) in Unity and run the game.
 ## How to play
 
 Each player will have their own form of control.  Most players will be playing on a game controller. One player may play using the computer's keyboard, and their controls will be different.
