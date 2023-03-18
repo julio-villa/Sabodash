@@ -1,4 +1,4 @@
- ![Lobby](/Sabodash%20Unity/Sabodash/Unity//Images/lobby.png)
+ ![Lobby](Sabodash%20Unity/Images/lobby.png)
 
 SABODASH is a local multiplayer infinite runner made in collaboration with [Reece Dubin](https://github.com/RDubinNU) and [Felipe Jannarone](https://github.com/felipejannarone). The goal of the game is to collect sabotages that allow you to disadvantage your friends, and eventually be the last person standing. SABODASH supports as many players as the number of controllers that can connect to your computer. 
 
